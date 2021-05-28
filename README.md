@@ -1,7 +1,7 @@
 ### Hi there 👋
 my name is Nicodemos, I'm a programmer, video editor and passionate about technology.
 
-- 🔭 I’m currently working on <a href="https://www.pechinchou.com.br">Pechinchou</a>
+- 🔭 I’m currently working at <a href="https://www.pechinchou.com.br">Pechinchou</a>
 - 🌱 I like to build things with Flutter, React, Laravel or whatever is needed :)
 - 📫 How to reach me: nicodemos54324@gmail.com
 <!--
