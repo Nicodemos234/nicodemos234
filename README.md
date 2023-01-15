@@ -4,13 +4,6 @@ my name is Nicodemos, I'm a programmer, video editor and passionate about techno
 - 🔭 I’m currently working at <a href="https://cantoo.fr">Cantoo</a>
 - 🌱 I like to build things with Flutter, React, Laravel or whatever is needed :)
 - 📫 How to reach me: nicodemos54324@gmail.com
-
- <div>
-  <a href="https://github.com/nicodemos234">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicodemos234&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicodemos234&layout=compact&langs_count=7&theme=cobalt"/>
-  <a>
-</div>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Nico-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
