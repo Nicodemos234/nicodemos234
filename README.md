@@ -2,7 +2,7 @@
 my name is Nicodemos, I'm a programmer, video editor and passionate about technology.
 
 - 🔭 I’m currently working at <a href="https://cantoo.fr">Cantoo</a>
-- 🌱 I like to build things with Flutter, React, Laravel or whatever is needed :)
+- 🌱 I like to build things with React, Nest, Next, Node, Unity3D :)
 - 📫 How to reach me: nicodemos54324@gmail.com
     
 <div style="display: inline_block"><br>
